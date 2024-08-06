@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone
-   cd
+   git clone https://github.com/MahdiAyadi1/auth-microservice.git
+   cd auth-microservice
    ```
 
 2. Install dependencies:
